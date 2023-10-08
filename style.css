@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* box-model*/
+  }
+  
+  body {
+    font-family: "Poppins", sans-serif;
+    background-color: #ebf2ff;
+    background-image: url(https://media.istockphoto.com/id/1192265107/photo/creative-education-background.jpg?s=170667a&w=0&k=20&c=b1ij4gPmhfXdVpd9CB2iwiOFWxdfaQnggZx_LRUD9_A=);
+  }
+  
+  .card-img-top {
+    padding: 15px;
+    height: 300px;
+    width: auto;
+  }
+  
+  .place__holder__image {
+    width: 100%;
+  }
